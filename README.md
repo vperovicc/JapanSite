@@ -4,6 +4,22 @@ I developed a webpage tailored for a sushi restaurant, featuring dynamic compone
 The entire project was crafted using React.js and Vite, ensuring a seamless and efficient user interface. It was one of the more chalanging encounter on HTML components and positioning with CSS, but at the end
 i learned more about it. 
 
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 ![1](https://github.com/vperovicc/JapanSite/assets/80456478/d84d867a-7ded-4fad-873a-9a9027af7c5d)
 ![2](https://github.com/vperovicc/JapanSite/assets/80456478/b4dde3fa-bc39-4ee2-b00d-1bf3c87646a0)
 ![3](https://github.com/vperovicc/JapanSite/assets/80456478/05d6735a-a2cc-45f1-a4f0-73206ed40b14)
